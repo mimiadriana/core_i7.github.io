@@ -147,3 +147,31 @@ div.container {
   position: relative;
   margin: auto;
 }
+
+.read_rev{
+  width: 150px;
+  position: absolute;
+  left: 360px;
+  top: 25px;
+  border-right: 2px solid grey;
+}
+
+.phone{
+  width: 180px;
+  position: absolute;
+  left: 530px;
+  top: 25px;
+  border-right: 2px solid grey;
+}
+
+.phone_no{
+  position: absolute;
+  left: 720px;
+  top: 25px;
+  }
+
+  .ex_menu{
+  position: absolute;
+  left: 60px;
+  bottom: 15px;
+  }
