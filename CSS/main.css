@@ -175,3 +175,59 @@ div.container {
   left: 60px;
   bottom: 15px;
   }
+
+  .banner_med{
+  background-color: #f7f8f9;
+  height: 375px;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+#about_res{
+  position: absolute;
+  left: 60px;
+  top: 25px;
+  width: 370px;
+  text-align: justify;
+}
+
+.about_res_h{
+  font-family: Times New Roman, Times, serif;
+  font-weight: bold;
+}
+
+.about_res{
+  font-family: Times New Roman, Times, serif;
+  
+}
+
+.hotel_awd{
+  position: absolute;
+  left: 60px;
+  bottom: 15px;
+  }
+
+  .rest_1{
+  position: absolute;
+  left: 500px;
+  bottom: 18px;
+  }
+
+  .rest_2{
+  position: absolute;
+  left: 500px;
+  bottom: 175px;
+  }
+
+  .rest_3{
+  position: absolute;
+  left: 703px;
+  bottom: 38px;
+  }
+
+  .rest_4{
+  position: absolute;
+  left: 703px;
+  bottom: 195px;
+  }
