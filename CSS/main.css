@@ -211,23 +211,77 @@ div.container {
   .rest_1{
   position: absolute;
   left: 500px;
-  bottom: 18px;
+  bottom: 23px;
   }
 
   .rest_2{
   position: absolute;
   left: 500px;
-  bottom: 175px;
+  bottom: 180px;
   }
 
   .rest_3{
   position: absolute;
   left: 703px;
-  bottom: 38px;
+  bottom: 43px;
   }
 
   .rest_4{
   position: absolute;
   left: 703px;
-  bottom: 195px;
+  bottom: 200px;
   }
+
+  #banner_gol{
+  height: 300px;
+  max-width: 1000px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  position: relative;
+  margin: auto;
+}
+
+.today_specials{
+  position: relative;
+  font-family: Times New Roman, Times, serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  top: 50px;
+}
+
+#sld_2{
+  margin: auto;
+  width: 400px;
+  bottom: 150px;
+  position: relative;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+}
+
+.specials_text1{
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 90px 30px;
+  position: absolute;
+  bottom: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.specials_text2{
+  font-family: "Times New Roman", Times, serif;
+  color: #828282;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 90px 30px;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
