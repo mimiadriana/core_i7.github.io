@@ -13,7 +13,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
 }
@@ -135,7 +135,7 @@ img {vertical-align: middle;}
   .prev, .next,.sld_text1, .sld_text2, .sld_text3 {font-size: 11px}
 }
 div.container {
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
 }
@@ -143,7 +143,7 @@ div.container {
 .banner{
   background-color: #d0d3d8;
   height: 75px;
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
 }
@@ -172,23 +172,23 @@ div.container {
 
   .ex_menu{
   position: absolute;
-  left: 60px;
+  left: 100px;
   bottom: 15px;
   }
 
   .banner_med{
   background-color: #f7f8f9;
   height: 375px;
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
 }
 
 #about_res{
   position: absolute;
-  left: 60px;
+  left: 100px;
   top: 25px;
-  width: 370px;
+  width: 430px;
   text-align: justify;
 }
 
@@ -204,37 +204,37 @@ div.container {
 
 .hotel_awd{
   position: absolute;
-  left: 60px;
+  left: 100px;
   bottom: 15px;
   }
 
   .rest_1{
   position: absolute;
-  left: 500px;
+  left: 600px;
   bottom: 23px;
   }
 
   .rest_2{
   position: absolute;
-  left: 500px;
+  left: 600px;
   bottom: 180px;
   }
 
   .rest_3{
   position: absolute;
-  left: 703px;
+  left: 803px;
   bottom: 43px;
   }
 
   .rest_4{
   position: absolute;
-  left: 703px;
+  left: 803px;
   bottom: 200px;
   }
 
   #banner_gol{
   height: 300px;
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
 }
@@ -286,7 +286,7 @@ div.container {
 .banner_lg{
   background-color: #f7f8f9;
   height: 475px;
-  max-width: 1000px;
+  max-width: 1700px;
   position: relative;
   margin: auto;
   z-index: -1;
@@ -294,7 +294,7 @@ div.container {
 
 .pizza{
   position: absolute;
-  left: 580px;
+  left: 670px;
   top: 220px;
   z-index: 0;
 }
