@@ -323,5 +323,12 @@ div.container {
   position: absolute;
   left: 0px;
   top: -40px;
-
 }
+
+.columns1{
+  -webkit-column-count: 7; /* Chrome, Safari, Opera */
+  -moz-column-count: 7; /* Firefox */
+  column-count: 7;
+  margin: auto;
+}
+
