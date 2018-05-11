@@ -299,3 +299,29 @@ div.container {
   z-index: 0;
 }
 
+.banner_dot{
+  background-color: #f7f8f9;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #e0e0e0;
+  height: 50px;
+  max-width: 1700px;
+  position: relative;
+  margin: auto;
+}
+
+.food_menu{
+  font-family: Times New Roman, Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: #515151;
+  position: relative;
+  top: -70px;
+}
+
+.bread{
+  position: absolute;
+  left: 0px;
+  top: -40px;
+
+}
